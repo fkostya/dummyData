@@ -1,6 +1,6 @@
 {
-  "data": {
-    "result": "progressList",
+  
+  "result": "progressList",
   "items": [
     {
       "actionTypeName": "FirstDepositQuest",
@@ -232,5 +232,4 @@
     }
   ],
   "version": "0"
-  }
 }
